@@ -74,7 +74,7 @@ if __name__ == "__main__":
     @@                                                                                                        @@                               
     @@    For instructions : http://brisbaneroboticsclub.id.au/using-libraries-with-python3/                  @@
     @@                                                                                                        @@
-    @@    To run code      : python3 asciiIG.py --file ImageFile.jpg                                          @@
+    @@    To run code      : python3 mainsubimport.py                                                         @@
     @@                                                                                                        @@
     @@    NOTE             : Humans were NOT harmed making this robot. This is free and open-source software  @@
     @@                       distributed under the terms of the GNU General Public License version 2.         @@
@@ -82,8 +82,6 @@ if __name__ == "__main__":
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
     ''')
-
-http://brisbaneroboticsclub.id.au/using-libraries-with-python3/
 
     print('-------------------')
     print('Starting Main Menu loop.')
