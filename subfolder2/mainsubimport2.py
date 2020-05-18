@@ -9,7 +9,7 @@ def demo():
     print('-------------------')
     print('This is the demo loop.')
     print('-------------------')
-    print('This demo Calculates the Volume, Area and Perimeter of a rectangle.')
+    print('This demo Calculates the Volume of a rectangle.')
     print('-------------------')
 
     l = random.randint(1000,100000) #2
@@ -66,7 +66,7 @@ if __name__ == "__main__":
     @@                                                                                                        @@                               
     @@    For instructions : http://brisbaneroboticsclub.id.au/using-libraries-with-python3/                  @@
     @@                                                                                                        @@
-    @@    To run code      : python3 mainsubimport.py                                                         @@
+    @@    To run code      : python3 mainsubimport2.py                                                        @@
     @@                                                                                                        @@
     @@    NOTE             : Humans were NOT harmed making this robot. This is free and open-source software  @@
     @@                       distributed under the terms of the GNU General Public License version 2.         @@
