@@ -1,5 +1,10 @@
-#import mainsubimport
-from mainsubimport import area
+import subfolder.mainsubimport
+import subfolder2.mainsubimport2
+
+# OR
+
+#from subfolder.mainsubimport import area
+#from subfolder2.mainsubimport2 import volume
 
 print('''
 
@@ -36,11 +41,15 @@ print('''
 l = 4
 b = 5
 
-#AREA = mainsubimport.area(l,b)
-AREA = area(l,b)
+AREA = subfolder.mainsubimport.area(l,b)
+VOLUME = subfolder2.mainsubimport2.volume(l,b)
 
-#mainsubimport.demo()
+# OR
+
+#AREA = area(l,b)
+#VOLUME = volume(l,b)
 
 print('Length :',l)
 print('Breadth :',b)
 print('Area :',AREA)
+print('Volume :',VOLUME)
