@@ -49,7 +49,7 @@ VOLUME = subfolder2.mainsubimport2.volume(l,b)
 #AREA = area(l,b)
 #VOLUME = volume(l,b)
 
-print('Hello world!!!')
+print('This program calculates the area and volume.')
 
 print('Length :',l)
 print('Breadth :',b)
