@@ -27,7 +27,7 @@ print('''
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%######%@@@@@@@@@@@@@@@@%%@%##%%@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@                                                                                                        @@
-@@    For instructions : http://brisbaneroboticsclub.id.au/using-libraries-with-python3/                  @@
+@@    For instructions : http://brisbanerobotics.club/using-libraries-with-python3/                       @@
 @@                                                                                                        @@
 @@    To run code      : python3 mainimport.py                                                            @@
 @@                                                                                                        @@
